@@ -226,7 +226,7 @@ export const projects = [
     image: images.groceryWebsite,
     tags: ["CSS", "JavaScipt", "React.js", "Redux"],
     webapp: "https://github.com/CoderPartha012/My-Todo-App",
-    github: "https://github.com/satyaprakash-web",
+    github: "https://github.com/CoderPartha012/My-Todo-App",
   },
 
   {
